@@ -1,0 +1,11 @@
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\bin\Debug\netcoreapp3.0\PPPPPPPPPP.exe
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\bin\Debug\netcoreapp3.0\PPPPPPPPPP.deps.json
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\bin\Debug\netcoreapp3.0\PPPPPPPPPP.runtimeconfig.json
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\bin\Debug\netcoreapp3.0\PPPPPPPPPP.runtimeconfig.dev.json
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\bin\Debug\netcoreapp3.0\PPPPPPPPPP.dll
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\bin\Debug\netcoreapp3.0\PPPPPPPPPP.pdb
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\obj\Debug\netcoreapp3.0\PPPPPPPPPP.csprojAssemblyReference.cache
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\obj\Debug\netcoreapp3.0\PPPPPPPPPP.AssemblyInfoInputs.cache
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\obj\Debug\netcoreapp3.0\PPPPPPPPPP.AssemblyInfo.cs
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\obj\Debug\netcoreapp3.0\PPPPPPPPPP.dll
+C:\Users\Fab\Desktop\PPPPPPPPP\PPPPPPPPPP\obj\Debug\netcoreapp3.0\PPPPPPPPPP.pdb
